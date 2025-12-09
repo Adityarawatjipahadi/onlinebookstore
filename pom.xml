@@ -52,7 +52,7 @@
 	</build>
 	<properties>
 		<sonar.host.url>http://13.222.207.88</sonar.host.url>
-		<sonar.host.login>sqa_868009e16f30374ecccee1360cc7d6e85b1c30a7</sonar.host.login>
+		<sonar.login>sqa_868009e16f30374ecccee1360cc7d6e85b1c30a7</sonar.login>
 		
 	</properties>
 	<dependencies>
@@ -79,3 +79,4 @@
 	</dependencies>
 
 </project>
+
