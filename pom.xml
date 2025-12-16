@@ -50,11 +50,13 @@
 			</plugin>
 		</plugins>
 	</build>
+	
+	<!--
 	<properties>
 		<sonar.host.url>http://13.222.207.88:9000</sonar.host.url>
-		<sonar.login>sqa_868009e16f30374ecccee1360cc7d6e85b1c30a7</sonar.login>
-		
+		<sonar.login>sqa_868009e16f30374ecccee1360cc7d6e85b1c30a7</sonar.login>	
 	</properties>
+	-->
 	<dependencies>
 
 		<dependency>
@@ -79,5 +81,6 @@
 	</dependencies>
 
 </project>
+
 
 
